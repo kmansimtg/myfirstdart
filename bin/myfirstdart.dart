@@ -10,7 +10,6 @@ void main(List<String> arguments) {
     List nam=['hifi','bye',7];
     print(nam);
     print('Enter your age');
-    
     String ?ghj = stdin.readLineSync();
     print('Your age is ${ghj}');
 
